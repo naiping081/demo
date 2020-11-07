@@ -72,3 +72,4 @@ class sp(object):
 if __name__ == '__main__':
     w=sp()
     w.strat()
+    print('哈哈哈哈')
